@@ -17,11 +17,13 @@ Choose a template: » blank (TypeScript)  same as blank but with TypeScript conf
 
 -  Inicar o React Native
 
-´´´bash
+```bash
+
 cd app
 
 npm run android
-´´´
+
+```
 
 # Requisitos
 
